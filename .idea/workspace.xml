@@ -28,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "img-priority",
+    "git-widget-placeholder": "after-css-priority",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743499884116</updated>
-      <workItem from="1743499885144" duration="1170000" />
+      <workItem from="1743499885144" duration="1513000" />
     </task>
     <servers />
   </component>
